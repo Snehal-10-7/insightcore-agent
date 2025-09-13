@@ -1,0 +1,8 @@
+metric,value,details
+overall_completion_rate,0.73,"completed:8, skipped:3"
+best_time_window,evening_16_20,completion_rate:1.0
+top_task_types,exercise|emails|relax,
+weekly_productivity_score,5,sum of rewards
+suggestion1,You complete more tasks in the evening 16 20. Schedule focus work then.,
+suggestion2,Study tasks are often skipped. Try breaking them into smaller chunks.,
+suggestion3,Relaxation is often skipped; consider shorter breaks earlier in the day.,
