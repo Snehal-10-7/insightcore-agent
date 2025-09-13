@@ -1,0 +1,15 @@
+{
+  "overall_completion_rate": 0.73,
+  "best_time_window": "evening_16_20",
+  "top_tasks": [
+    "exercise",
+    "emails",
+    "relax"
+  ],
+  "weekly_productivity_score": 5,
+  "suggestions": [
+    "You complete more tasks in the evening 16 20. Schedule focus work then.",
+    "Study tasks are often skipped. Try breaking them into smaller chunks.",
+    "Relaxation is often skipped; consider shorter breaks earlier in the day."
+  ]
+}
